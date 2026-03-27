@@ -58,6 +58,7 @@ Exemple :
 ```sql
 CREATE DATABASE CinemaDB;
 ```
+<img width="1117" height="475" alt="image" src="https://github.com/user-attachments/assets/91839cc3-4f36-47fc-ad89-3af61463f2bb" />
 
 ## ❗ Problème rencontré
 
@@ -67,6 +68,7 @@ Lors du développement, un problème de compatibilité est apparu avec le driver
 * ✅ Solution : utiliser **`mysql-connector-j-9.6.0.jar`**
 
 ---
+<img width="1473" height="877" alt="image" src="https://github.com/user-attachments/assets/62c4d071-161b-4eb6-a1e7-974ddf834593" />
 
 ## 🎯 Ce que j’ai appris
 
